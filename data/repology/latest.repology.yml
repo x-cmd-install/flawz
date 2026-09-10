@@ -1,0 +1,309 @@
+- repo: nix_stable_25_11
+  srcname: flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-r0
+  status: newest
+  summary: A Terminal UI for browsing CVEs
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: flawz
+  binname: flawz-bash-completion
+  visiblename: flawz-bash-completion
+  version: 0.4.1
+  origversion: 0.4.1-r0
+  status: newest
+  summary: Bash completions for flawz
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: flawz
+  binname: flawz-doc
+  visiblename: flawz-doc
+  version: 0.4.1
+  origversion: 0.4.1-r0
+  status: newest
+  summary: A Terminal UI for browsing CVEs (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: flawz
+  binname: flawz-fish-completion
+  visiblename: flawz-fish-completion
+  version: 0.4.1
+  origversion: 0.4.1-r0
+  status: newest
+  summary: Fish completions for flawz
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: flawz
+  binname: flawz-zsh-completion
+  visiblename: flawz-zsh-completion
+  version: 0.4.1
+  origversion: 0.4.1-r0
+  status: newest
+  summary: Zsh completions for flawz
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT OR Apache-2.0
+- repo: altsisyphus
+  srcname: flawz
+  binnames:
+    - flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-alt1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  maintainers:
+    - serjigva@altlinux.org
+  licenses:
+    - Apache-2.0 and MIT
+  categories:
+    - Security/Networking
+- repo: arch
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: freebsd
+  srcname: security/flawz
+  binname: flawz
+  visiblename: security/flawz
+  version: 0.4.1
+  origversion: 0.4.1_2
+  status: newest
+  summary: Terminal UI for browsing security vulnerabilities (CVEs)
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - security
+- repo: homebrew
+  srcname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: Terminal UI for browsing security vulnerabilities (CVEs)
+- repo: homebrew
+  srcname: flawz
+  visiblename: flawz
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal UI for browsing security vulnerabilities (CVEs)
+- repo: macports
+  srcname: security/flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+    - Apache-2
+  categories:
+    - security
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: pkgsrc_2026_1
+  srcname: security/flawz
+  binname: flawz
+  visiblename: security/flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: TUI for browsing security vulnerabilities
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: pkgsrc_2026_2
+  srcname: security/flawz
+  binname: flawz
+  visiblename: security/flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: TUI for browsing security vulnerabilities
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: pkgsrc_current
+  srcname: security/flawz
+  binname: flawz
+  visiblename: security/flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: TUI for browsing security vulnerabilities
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: flawz
+  binnames:
+    - flawz
+  visiblename: flawz
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: outdated
+  summary: TUI for browsing CVE
+  maintainers:
+    - survolog@yandex.ru
+  licenses:
+    - MIT
+  categories:
+    - Databases
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: flawz
+  binnames:
+    - flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  summary: TUI for browsing CVE
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - Databases
