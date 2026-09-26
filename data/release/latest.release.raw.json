@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22299,
       "digest": "sha256:03662a394910dbf385460ef00b7d88d05d1f8dcd1651f6d650ac8eda6914efea",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-installer.ps1"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 52116,
       "digest": "sha256:8303a8c052ad13bcccdd556dedc07a9b2b9b326557f717cfe232b6e04b3729df",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-installer.sh"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:28d88356758df624365466a87d9d8a2aa8f9fcee7ef3778702ea565593c7302b",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.msi.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:8e0be88866dec83fd77eb2b838974d3fbcb823182cd08d295f4b6571c539556b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-06-13T22:46:52Z",
       "updated_at": "2026-06-13T22:46:52Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/source.tar.gz.sha256"
