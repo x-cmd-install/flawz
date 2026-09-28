@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1776336,
       "digest": "sha256:f714a83fd235de9646a25822cba249178e16cae2e0296d347b3f864e6bd000f2",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-apple-darwin.tar.xz"
