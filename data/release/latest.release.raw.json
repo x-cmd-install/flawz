@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 52116,
       "digest": "sha256:8303a8c052ad13bcccdd556dedc07a9b2b9b326557f717cfe232b6e04b3729df",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-installer.sh"
