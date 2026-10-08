@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25580,
       "digest": "sha256:531ac7f7918e43d6049c8a1d6f74f3e110b1d400888a3eb93816726b7d7d5639",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1593572,
       "digest": "sha256:a7741e8210db3c3c1a5d645cdedaf7d35c4ae0ac082b3b556e878be98cc15c92",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:b782f35d8b1064c94785f6a9133e28ebb307d7fbd4a3457e3cba112bdbcb9e63",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22299,
       "digest": "sha256:03662a394910dbf385460ef00b7d88d05d1f8dcd1651f6d650ac8eda6914efea",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-installer.ps1"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 52116,
       "digest": "sha256:8303a8c052ad13bcccdd556dedc07a9b2b9b326557f717cfe232b6e04b3729df",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-installer.sh"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1776336,
       "digest": "sha256:f714a83fd235de9646a25822cba249178e16cae2e0296d347b3f864e6bd000f2",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-apple-darwin.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:2242307a7e988e2ab41fc1942450395684447e63ffd0728bf52222a096524480",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-apple-darwin.tar.xz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3260416,
       "digest": "sha256:4dda3b1f0eb4ef4c5a619523d0ddcc8fd859f6c134334dd747ae46808db44faa",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.msi"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:28d88356758df624365466a87d9d8a2aa8f9fcee7ef3778702ea565593c7302b",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.msi.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3598454,
       "digest": "sha256:06211cd87e3159955f01628a9494250f9f32154dd78759d77e8ba76cc3f11f99",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:52Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:4e208ef95744e4762c4aadca53464c6744c40cce689d6d3bda3a372fc4f26e5e",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 478,
       "digest": "sha256:f7d63e5eae3db588b98bc9108d5de108363ebad13b0ed9dd0d6d43171e232307",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/sha256.sum"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7318134,
       "digest": "sha256:dada75ba37c4826b55e70451cfa6985771bf2526eac29368de339e3be7dd4ab2",
-      "download_count": 85,
+      "download_count": 87,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:52Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/source.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:8e0be88866dec83fd77eb2b838974d3fbcb823182cd08d295f4b6571c539556b",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-06-13T22:46:52Z",
       "updated_at": "2026-06-13T22:46:52Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/source.tar.gz.sha256"
