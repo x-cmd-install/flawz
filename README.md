@@ -14,12 +14,12 @@ x install flawz
 
 ## Code insight
 
-Total: **1,282** lines of code across **27** files in the top 5 languages.
+Total: **1,289** lines of code across **27** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 1,075 | 1 | 84 | 14 |
-| Toml | 207 | 40 | 24 | 7 |
+| Toml | 214 | 42 | 25 | 7 |
 | Markdown | 0 | 421 | 218 | 6 |
 
 ## Source
@@ -30,27 +30,27 @@ Total: **1,282** lines of code across **27** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2026-06-13)
-- **Last commit**: 2026-06-13
+- **Last commit**: 2026-10-23
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 614 · **Forks**: 20 · **Open issues**: 16 · **Contributors**: 11
+- **Stars**: 614 · **Forks**: 21 · **Open issues**: 16 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 26 · **Open PRs**: 9 · **Closed issues**: 9 · **Open issues**: 7 · **Commits**: 94
+- **Releases**: 9 · **Merged PRs**: 27 · **Open PRs**: 9 · **Closed issues**: 10 · **Open issues**: 6 · **Commits**: 95
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-26 | 2 | 2 | 0 | 0 | 1 | 5 |
-| 360d | 2025-10-28 | 2 | 2 | 0 | 0 | 2 | 5 |
-| last720d | 2024-11-02 | 3 | 5 | 9 | 1 | 2 | 13 |
+| 30d | 2026-09-24 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-25 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-07-26 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-04-27 | 2 | 3 | 0 | 1 | 0 | 6 |
+| 360d | 2025-10-29 | 2 | 3 | 0 | 1 | 1 | 6 |
+| last720d | 2024-11-03 | 3 | 6 | 9 | 2 | 1 | 14 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for flawz lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:20Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:18:42Z._
