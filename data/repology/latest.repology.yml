@@ -131,30 +131,6 @@
     - Apache-2
   categories:
     - security
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: flawz
