@@ -35,7 +35,7 @@ Total: **1,289** lines of code across **27** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 619 · **Forks**: 22 · **Open issues**: 16 · **Contributors**: 12
+- **Stars**: 620 · **Forks**: 22 · **Open issues**: 16 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **1,289** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-09-04 | 0 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-08-05 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last180d | 2026-05-07 | 2 | 3 | 0 | 1 | 0 | 6 |
-| 360d | 2025-11-08 | 2 | 3 | 0 | 1 | 1 | 6 |
-| last720d | 2024-11-13 | 2 | 6 | 9 | 2 | 1 | 10 |
+| 30d | 2026-10-05 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-09-05 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-06 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-05-08 | 2 | 3 | 0 | 1 | 0 | 6 |
+| 360d | 2025-11-09 | 2 | 3 | 0 | 1 | 1 | 6 |
+| last720d | 2024-11-14 | 2 | 6 | 9 | 2 | 1 | 10 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for flawz lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:28:31Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:09:11Z._
