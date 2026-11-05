@@ -1,3 +1,15 @@
+- repo: nix_stable_25_11
+  srcname: flawz
+  visiblename: flawz
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: flawz
@@ -90,6 +102,18 @@
   licenses:
     - MIT
     - Apache-2.0
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: freebsd
   srcname: security/flawz
   binname: flawz
@@ -156,18 +180,6 @@
     - MIT
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: flawz
-  visiblename: flawz
-  version: 0.3.0
-  origversion: null
-  status: outdated
-  summary: Terminal UI for browsing CVEs
-  maintainers:
-    - anas.elgarhy.dev@gmail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: nix_stable_25_11
   srcname: flawz
   visiblename: flawz
   version: 0.3.0
