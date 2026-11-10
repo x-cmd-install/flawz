@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3260416,
       "digest": "sha256:4dda3b1f0eb4ef4c5a619523d0ddcc8fd859f6c134334dd747ae46808db44faa",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/flawz-x86_64-pc-windows-msvc.msi"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7318134,
       "digest": "sha256:dada75ba37c4826b55e70451cfa6985771bf2526eac29368de339e3be7dd4ab2",
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:52Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/source.tar.gz"
