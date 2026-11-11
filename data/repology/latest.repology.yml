@@ -1,17 +1,51 @@
-- repo: homebrew
+- repo: manjaro_stable
+  subrepo: extra
   srcname: flawz
+  binname: flawz
   visiblename: flawz
   version: 0.4.1
-  origversion: null
+  origversion: 0.4.1-1
   status: newest
-  summary: Terminal UI for browsing security vulnerabilities (CVEs)
-- repo: homebrew
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: flawz
+  binname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: 0.4.1-2
+  status: newest
+  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_24_11
   srcname: flawz
   visiblename: flawz
-  version: HEAD
+  version: 0.3.0
   origversion: null
-  status: rolling
-  summary: Terminal UI for browsing security vulnerabilities (CVEs)
+  status: outdated
+  summary: Terminal UI for browsing CVEs
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: flawz
@@ -98,18 +132,6 @@
   binname: flawz
   visiblename: flawz
   version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
   origversion: 0.4.1-2
   status: newest
   summary: A Terminal UI for browsing security vulnerabilities (CVEs)
@@ -128,6 +150,20 @@
     - yuri@freebsd.org
   categories:
     - security
+- repo: homebrew
+  srcname: flawz
+  visiblename: flawz
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: Terminal UI for browsing security vulnerabilities (CVEs)
+- repo: homebrew
+  srcname: flawz
+  visiblename: flawz
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal UI for browsing security vulnerabilities (CVEs)
 - repo: macports
   srcname: security/flawz
   binname: flawz
@@ -143,54 +179,6 @@
     - Apache-2
   categories:
     - security
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: flawz
-  binname: flawz
-  visiblename: flawz
-  version: 0.4.1
-  origversion: 0.4.1-1
-  status: newest
-  summary: A Terminal UI for browsing security vulnerabilities (CVEs)
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: flawz
-  visiblename: flawz
-  version: 0.3.0
-  origversion: null
-  status: outdated
-  summary: Terminal UI for browsing CVEs
-  maintainers:
-    - anas.elgarhy.dev@gmail.com
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: flawz
   visiblename: flawz
