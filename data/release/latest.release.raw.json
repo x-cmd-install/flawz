@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25580,
       "digest": "sha256:531ac7f7918e43d6049c8a1d6f74f3e110b1d400888a3eb93816726b7d7d5639",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-06-13T22:46:51Z",
       "updated_at": "2026-06-13T22:46:51Z",
       "browser_download_url": "https://github.com/orhun/flawz/releases/download/v0.4.1/dist-manifest.json"
